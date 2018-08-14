@@ -1,11 +1,23 @@
-# Science Presentations
-Here are some presentations that I have made
+# Science Toolkit
+
+Here are some helpful resources to help you do your science. Some are generic to everyone and others may be more specific to physics. 
+
+**What is a research**
+* This is a way to step through a mini research project to see what it is like
+* *created July 2018
+
+**Evernote**
+* How to integrate digital notebooks in to your research life
+* *created July 2018
 
 
-**Ipython notebook tutorial**
-* I think ipython is a helpful collaborative way of conducting research
-* I put this together to help students get of sense of why
-* This is useful for leading an activity with incoming students to research
+**Mendeley**
+* How to keep track of all the research papers you download
+* *created July 2018
+
+**iPython notebooks**
+* Here is a sense of how you can utilize a Python notebook to share how to do your research with others
+
 
 
 **Sed, grep and awk tutorials**
