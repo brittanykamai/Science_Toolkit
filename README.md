@@ -24,5 +24,5 @@ Here are some helpful resources to help you do your science. Some are generic to
 **Sed, grep and awk tutorials**
 * These tutorials were made a while ago while I was the "computational guru " in Vanderbilt's astronomy group
 * They are helpful for launching in to these commands
-* *created in 2014 for the Fisk-Vanderbilt Bridge Program bootcamp*
+* *created in 2014 for as the Vanderbilt Astronomy Department computational guru*
 
